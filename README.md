@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NataChiara, and I'm form Argentina
+- 👋 Hi, I’m @NataChiara, and I'm living in Spain
 - 👀 I’m a physician, but also a Data Analyst Jr and a Data Scientist Jr
 - 🌱 I’m currently giving my first steps, so any help is welcome!!
 - 📫 You can find me in Telegram as @NataChiara
