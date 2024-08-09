@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NataChiara, and I'm living in Spain
-- 👀 I’m a physician, but also a Data Analyst Jr and a Data Scientist Jr
-- 🌱 I’m currently giving my first steps, so any help is welcome!!
+- 👀 I’m a Data Analyst and a Data Scientist Jr
 - 📫 You can find me in Telegram as @NataChiara
 
 <!---
